@@ -13,7 +13,7 @@ While my primary work lives under the hood in data engineering and algorithmic d
 
 ### Auxiliary & Applied Engineering
 
-*   **[supeesu](https://e-can-code.github.io/supeesu/)** — A personal exploration into user agency and atmospheric UI. Built as a minimalist, zero-click browser start page to replace distracting algorithmic feeds with a calm, state-persistent search dashboard.
+*   **[supeesu](https://github.com/e-can-code/supeesu)** — A personal exploration into user agency and atmospheric UI. Built as a minimalist, zero-click browser start page to replace distracting algorithmic feeds with a calm, state-persistent search dashboard.
 *   **[TheHandyman870](https://github.com/e-can-code/TheHandyman870)** — A production web deployment for a local trade service provider. Developed to maintain highly responsive, optimized local web presence, serving as an extension of my applied frontend engineering capabilities.
 
 ---
