@@ -8,13 +8,13 @@ While my primary work lives under the hood in data engineering and algorithmic d
 
 ## ✦ Core Workspace & Research
 
-*   **[MachineLearningAndLinguistics_coursework](https://github.com/yourusername/MachineLearningAndLinguistics_coursework)** — The foundational core of my work. An active repository compiling academic research, core statistical machine learning models, and exploratory scripts evaluating linguistic theory and computational workflows. *(In active development/organization)*
-*   **[Small-Corpus-Exploration](https://github.com/yourusername/Small-Corpus-Exploration)** — An active data extraction playground. Focused on text parsing, tokenization patterns, and web scraping using Python and BeautifulSoup to isolate and analyze high-signal linguistic data.
+*   **[MachineLearningAndLinguistics_coursework](https://github.com/e-can-code.github.io/MachineLearningAndLinguistics_coursework)** — The foundational core of my work. An active repository compiling academic research, core statistical machine learning models, and exploratory scripts evaluating linguistic theory and computational workflows. *(In active development/organization)*
+*   **[Small-Corpus-Exploration](https://github.com/e-can-code.github.io/Small-Corpus-Exploration)** — An active data extraction playground. Focused on text parsing, tokenization patterns, and web scraping using Python and BeautifulSoup to isolate and analyze high-signal linguistic data.
 
 ### Auxiliary & Applied Engineering
 
-*   **[supeesu](https://github.com/yourusername/supeesu)** — A personal exploration into user agency and atmospheric UI. Built as a minimalist, zero-click browser start page to replace distracting algorithmic feeds with a calm, state-persistent search dashboard.
-*   **[TheHandyman870](https://github.com/yourusername/TheHandyman870)** — A production web deployment for a local trade service provider. Developed to maintain highly responsive, optimized local web presence, serving as an extension of my applied frontend engineering capabilities.
+*   **[supeesu](https://e-can-code.github.io/supeesu/)** — A personal exploration into user agency and atmospheric UI. Built as a minimalist, zero-click browser start page to replace distracting algorithmic feeds with a calm, state-persistent search dashboard.
+*   **[TheHandyman870](https://github.com/e-can-code.github.io/TheHandyman870)** — A production web deployment for a local trade service provider. Developed to maintain highly responsive, optimized local web presence, serving as an extension of my applied frontend engineering capabilities.
 
 ---
 
