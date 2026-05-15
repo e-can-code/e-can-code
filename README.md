@@ -1,4 +1,4 @@
-# ✦ Hello, World!
+# ✦ Hello, World! ✦
 
 I am a software developer and researcher specialized in **Machine Learning**, **Computational Linguistics**, and **Natural Language Processing** [cite: Summary]. My core focus is on the structural, syntactic, and statistical mechanics of language, applying computational models to analyze text corpora and explore intelligent data systems [cite: Summary].
 
